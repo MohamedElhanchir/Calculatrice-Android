@@ -37,11 +37,8 @@ Pour tester l'application, suivez les étapes suivantes :
 7. Exécutez l'application sur un émulateur ou un appareil Android.
 
 
-## Contribution
-Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à créer une pull request pour améliorer ce projet.
 
-## Simulation
-## Simulation et Captures d'écran
+##  Captures d'écran
 
 #### Mode Portrait
 
@@ -54,3 +51,7 @@ Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à
 <div align="center">
   <img src="Captures/simulationPaysage.png" alt="Capture d'écran de l'interface en mode paysage" width="600"/>
 </div>
+
+## Contribution
+Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à créer une pull request pour améliorer ce projet.
+
