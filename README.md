@@ -7,8 +7,10 @@ Ce projet est une application de calculatrice Android développée dans le cadre
 
 ## Fonctionnalités
 - Modes portrait et paysage
-  ![Capture d'écran de l'interface en mode portrait](Captures/portrait.png)
+- 
+   ![Capture d'écran de l'interface en mode portrait](Captures/portrait.png)
    ![Capture d'écran de l'interface en mode paysage](Captures/paysage.png)
+  -
 - Opérations arithmétiques de base
 - Fonctions scientifiques en mode paysage
 - Effacement du dernier caractère
@@ -39,5 +41,16 @@ Pour tester l'application, suivez les étapes suivantes :
 Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à créer une pull request pour améliorer ce projet.
 
 ## Simulation
-![Capture d'écran de l'interface en mode portrait](Captures/simulationPortrait.png)
-![Capture d'écran de l'interface en mode paysage](Captures/simulationPaysage.png)
+## Simulation et Captures d'écran
+
+#### Mode Portrait
+
+<div align="center">
+  <img src="Captures/simulationPortrait.png" alt="Capture d'écran de l'interface en mode portrait" width="400"/>
+</div>
+
+#### Mode Paysage
+
+<div align="center">
+  <img src="Captures/simulationPaysage.png" alt="Capture d'écran de l'interface en mode paysage" width="600"/>
+</div>
